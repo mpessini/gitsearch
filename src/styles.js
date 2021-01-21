@@ -4,6 +4,7 @@ export const LoginBody = styled.div`
   align-items: center;
   display: flex;
   flex-direction: column;
+  font-family: sans-serif;
   justify-content: center;
   margin-top: 50px;
 `;
