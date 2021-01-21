@@ -21,14 +21,14 @@ export default function SearchBar() {
       <div>
         <label data-testid='searchbar-label' htmlFor='usersearch'>
           Busca de usuário
-          <input
-            id='usersearch'
-            type='text'
-            name='usersearch'
-            data-testid='searchbar-input'
-          />
         </label>
       </div>
+      <input
+        id='usersearch'
+        type='text'
+        name='usersearch'
+        data-testid='searchbar-input'
+      />
       <button
         type='button'
         data-testid='searchbar-button'

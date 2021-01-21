@@ -48,7 +48,7 @@ function Login() {
           <label htmlFor='userpassword' data-testid='password-label'>
             Senha
           </label>
-          <a href='/'>Esqueceu Senha?</a>
+          <a href='/gitsearch'>Esqueceu Senha?</a>
         </div>
         <input
           id='userpassword'
