@@ -14,6 +14,7 @@ export const SearchBody = styled.div`
   align-items: center;
   display: flex;
   flex-direction: column;
+  font-family: sans-serif;
   justify-content: center;
 `;
 
@@ -22,6 +23,7 @@ export const HeaderStyle = styled.header`
   align-items: center;
   display: flex;
   flex-direction: column;
+  font-family: sans-serif;
   justify-content: center;
   width: 80%;
 
