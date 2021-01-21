@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const LoginBody = styled.div`
   align-items: center;
+  background-color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
