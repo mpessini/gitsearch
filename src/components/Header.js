@@ -7,7 +7,7 @@ export default function Header() {
   const userName = useSelector((state) => state.username);
 
   const handleLogoutButton = () => {
-    window.location.pathname = '/';
+    window.location.pathname = '/gitsearch';
   };
 
   return (

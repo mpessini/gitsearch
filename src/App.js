@@ -6,7 +6,7 @@ import SearchPage from './pages/SearchPage';
 function App() {
   return (
     <Switch>
-      <Route exact path='/' component={Login} />
+      <Route exact path='/gitsearch' component={Login} />
       <Route exact path='/searchpage' component={SearchPage} />
     </Switch>
   );
