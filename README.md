@@ -28,8 +28,8 @@ E também um editor de textos como o [VSCode](https://code.visualstudio.com/)
 
 ### Rodando a aplicação localmente
 1. Clone o repositório
-  * `git clone https://github.com/mpessini/gitsearch.git`.(URL)
-    Ou
+  * `git clone https://github.com/mpessini/gitsearch.git`.(URL)  
+    Ou  
   * `git clone git@github.com:mpessini/gitsearch.git`(SSH)
 
   * Entre na pasta do repositório que você acabou de clonar:
