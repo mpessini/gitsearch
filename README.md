@@ -8,7 +8,7 @@
 Tabela de conteúdos
 =================
   * [Sobre](#Sobre)
-  * [Instalação](#instalacao)
+  * [Instalação](#instalação)
   * [Como usar](#como-usar)
   * [Tecnologias](#tecnologias)
 
@@ -62,11 +62,11 @@ com as informações sobre o repositório.
 
 Tecnologias
 ===========
-* Tecnologias utilizadas para construção da aplicação:
+* Tecnologias utilizadas para construção da aplicação:  
 [React](https://pt-br.reactjs.org/)  
 [React Testing Library](https://testing-library.com/)  
 
-* Ferramentas para controle e organização de código:
+* Ferramentas para controle e organização de código:  
 [ESLint](https://eslint.org/)  
 [Prettier](https://prettier.io/)  
 [Git](https://git-scm.com)
