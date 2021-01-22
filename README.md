@@ -50,7 +50,7 @@ clicando no botão com o texto "Entrar".
 
 ### Buscas
 Você pode realizar busca de usuários reais do GitHub preenchendo o
-campo de busca com o username de um usuário válido e então clicarm em buscar.
+campo de busca com um username válido e então clicar no botão com o texto buscar.
 Seŕa retornado de uma API as informações disponíveis sobre o usuário buscado,
 bem como a lista de seus repositórios.
 
