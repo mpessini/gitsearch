@@ -11,7 +11,6 @@ Tabela de conteúdos
   * [Instalação](#instalacao)
   * [Como usar](#como-usar)
   * [Tecnologias](#tecnologias)
-=================
 
 Sobre
 =====
@@ -24,7 +23,7 @@ Instalação
 ==========
 ### Pré-requisitos
 Certifique-se de ter instalado em sua maquina estas ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).  
 E também um editor de textos como o [VSCode](https://code.visualstudio.com/)
 
 ### Rodando a aplicação localmente
@@ -63,11 +62,11 @@ com as informações sobre o repositório.
 
 Tecnologias
 ===========
-*Tecnologias utilizadas para construção da aplicação:
-[React](https://pt-br.reactjs.org/)
-[React Testing Library](https://testing-library.com/)
+* Tecnologias utilizadas para construção da aplicação:
+[React](https://pt-br.reactjs.org/)  
+[React Testing Library](https://testing-library.com/)  
 
-Ferramentas para controle e organização de código:
-[ESLint](https://eslint.org/)
-[Prettier](https://prettier.io/)
+* Ferramentas para controle e organização de código:
+[ESLint](https://eslint.org/)  
+[Prettier](https://prettier.io/)  
 [Git](https://git-scm.com)
